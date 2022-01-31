@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q440wB5UUzppkr31SSZHzmIsaq4gFD7IeQ1TnKJDcR5xCBMw/QgnkJMiov85xJUGg7yF/WzxOy4nkf00nBUfsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zubgi\\OneDrive\\Desktop\\GITHUB\\Cadastro-de-Series\\Dio.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zubgi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
